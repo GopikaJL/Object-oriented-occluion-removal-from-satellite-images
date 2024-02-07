@@ -1,0 +1,14 @@
+ABSTRACT :
+• To recover the occluded object information from satellite images, shadow removal is a significant processing
+procedure for the image interpretation and application.
+• So a novel framework of shadow detection and removal for panchromatic satellite images to restore the
+obscured object information is developed.
+• The proposed algorithm is based on hard shadow detection by local thresholding methods and trained a
+convolutional neural network framework for salient feature extraction.
+• Shadow removal is performed by Gamma correction, histogram mismatching and IOOPL based loop
+matching.
+• A comparative study between these process are also conducted and is evaluated into two modes such as
+objective evaluation on the basis of SSIM and PSNR and subjective evaluation on the basis of gray value
+profile recovery.
+• This comprehensive approach aims to achieve superior object information restoration in satellite images by
+combining the strengths of CNNs and traditional image processing methods.
